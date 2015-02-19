@@ -1,0 +1,3 @@
+For this lab I am creating a general framework for a program to represent the 
+game of Sudoku. This framework will be used for next weeks lab which will solve
+a sudoku puzzle. 
